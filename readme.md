@@ -1,3 +1,3 @@
-#demo 
+#XO Game
 
-uploading my first project!!
+Uploading my first project!!
